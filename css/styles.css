@@ -11,7 +11,7 @@ footer {
 
 h2 {
     font-family: "Montserrat";
-    font-weight: 700;
+    font-weight: 900;
     font-size: 2.8rem;
     line-height: 1.5;
 }
@@ -29,8 +29,7 @@ p {
     font-family: "Montserrat";
     font-weight: 900;
     line-height: 1.5;
-    font-size: 3.1rem;
-    color: white;
+    font-size: 3.1rem;    
 }
 
 
@@ -59,6 +58,10 @@ p {
 /** Download button **/
 .download-btn {
     margin: 5% 3% 5% 0;
+}
+
+#title {
+    color: white;
 }
 
 #title .container-fluid {
