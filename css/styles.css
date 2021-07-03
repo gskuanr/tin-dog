@@ -29,7 +29,6 @@ p {
 }
 
 .white-section {
-    padding: 7% 15%;
     background-color: white;
 }
 .coloured-section {
@@ -66,13 +65,9 @@ p {
 
 /* title section */
 
-#title {
-    color: white;
-    text-align: left;
-}
-
 #title .container-fluid {
     padding: 3% 15% 7%;
+    text-align: left;
 }
 
 .title-image {
@@ -120,7 +115,6 @@ p {
 
 #testimonials {
     background-color: #ef8172;
-    color: white;
 }
 
 .testimonial-text {
